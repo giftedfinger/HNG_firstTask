@@ -1,0 +1,26 @@
+
+
+
+.fotterContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+width: 85%;
+margin: 5rem auto;
+text-align: center;
+
+}
+
+h3{
+    font-size: 1.5rem;
+}
+.zuri_dot{
+    width: .5rem;
+    height: .5rem;
+    background-color: #E7332B;
+    display: inline-block;
+    border-radius: 50%;
+}
+p{
+    color: var(--Textcolor);
+}

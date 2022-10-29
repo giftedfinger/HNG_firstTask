@@ -1,0 +1,10 @@
+.footerDiv{
+    text-align: center;
+    margin-top: 3rem;
+
+}
+
+.footerDiv img{
+    margin-right:1rem ;
+    cursor: pointer;
+}
